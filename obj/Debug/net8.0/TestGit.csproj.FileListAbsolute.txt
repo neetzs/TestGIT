@@ -1,0 +1,15 @@
+C:\Neetzs\Repos\TestGit\bin\Debug\net8.0\TestGit.exe
+C:\Neetzs\Repos\TestGit\bin\Debug\net8.0\TestGit.deps.json
+C:\Neetzs\Repos\TestGit\bin\Debug\net8.0\TestGit.runtimeconfig.json
+C:\Neetzs\Repos\TestGit\bin\Debug\net8.0\TestGit.dll
+C:\Neetzs\Repos\TestGit\bin\Debug\net8.0\TestGit.pdb
+C:\Neetzs\Repos\TestGit\obj\Debug\net8.0\TestGit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Neetzs\Repos\TestGit\obj\Debug\net8.0\TestGit.AssemblyInfoInputs.cache
+C:\Neetzs\Repos\TestGit\obj\Debug\net8.0\TestGit.AssemblyInfo.cs
+C:\Neetzs\Repos\TestGit\obj\Debug\net8.0\TestGit.csproj.CoreCompileInputs.cache
+C:\Neetzs\Repos\TestGit\obj\Debug\net8.0\TestGit.sourcelink.json
+C:\Neetzs\Repos\TestGit\obj\Debug\net8.0\TestGit.dll
+C:\Neetzs\Repos\TestGit\obj\Debug\net8.0\refint\TestGit.dll
+C:\Neetzs\Repos\TestGit\obj\Debug\net8.0\TestGit.pdb
+C:\Neetzs\Repos\TestGit\obj\Debug\net8.0\TestGit.genruntimeconfig.cache
+C:\Neetzs\Repos\TestGit\obj\Debug\net8.0\ref\TestGit.dll
